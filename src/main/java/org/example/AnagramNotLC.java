@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
-
+//test
 public class AnagramNotLC {
     public static List<List<String>> anagrams(String[] str){
         Map<String,List<String>> map= new HashMap<>();
